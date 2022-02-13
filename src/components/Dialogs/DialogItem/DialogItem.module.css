@@ -1,0 +1,9 @@
+
+.dialogsItems {
+    padding: 10px;
+    color: white;
+}
+
+.dialogsItems .active {
+    color: gold;
+}
